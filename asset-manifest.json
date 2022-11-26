@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Show-and-hide-password-by-react/static/css/main.1fdbc68e.css",
+    "main.js": "/Show-and-hide-password-by-react/static/js/main.a3b08495.js",
+    "static/media/back.jpg": "/Show-and-hide-password-by-react/static/media/back.e51fc2727632ba481717.jpg",
+    "index.html": "/Show-and-hide-password-by-react/index.html",
+    "main.1fdbc68e.css.map": "/Show-and-hide-password-by-react/static/css/main.1fdbc68e.css.map",
+    "main.a3b08495.js.map": "/Show-and-hide-password-by-react/static/js/main.a3b08495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fdbc68e.css",
+    "static/js/main.a3b08495.js"
+  ]
+}
