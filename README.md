@@ -1,6 +1,6 @@
 # Accordion-Menu-By-React
 
-😉 **If you have a lot of information to display on your site, why don't you use my accordion menu**
+😉 **From now on, enter your password as soon as possible and enter your admin panel**
 
 ![back1](https://user-images.githubusercontent.com/109727844/204108398-37fe1ac4-b0f5-41e6-bc2c-224f1982f6cc.jpg)
 
